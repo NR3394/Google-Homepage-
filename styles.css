@@ -1,0 +1,84 @@
+.Apps {
+  position: relative;
+  width: 30px;
+  top: 8px;
+  left: 1220px;
+}
+.Sign-In {
+  position: relative;
+  width: 60px;
+  top: 6px;
+  left: 1230px;
+}
+.Images {
+  position: relative;
+  left: 1210px;
+}
+.Gmail {
+  position: relative;
+  left: 1200px;
+}
+.Store {
+  position: relative;
+  left: 10px;
+}
+.Google {
+  position: relative;
+  top: 80px;
+  width: 300px;
+  left: 600px;
+}
+
+
+.footer {
+  position: relative;
+  top: 500px;
+}
+.carbon {
+  position: relative;
+  left: 400px;
+}
+.settings {
+  position: relative;
+  left: 900px;
+}
+.terms {
+  position: relative;
+  left: 860px;
+}
+.privacy {
+  position: relative;
+  left: 820px;
+}
+.business {
+  position: relative;
+  left: 40px;
+}
+.how {
+  position: relative;
+  left: 80px;
+}
+.main {
+  position: relative;
+  text-align: center;
+}
+#Search {
+  position: relative;
+  top: 110px;
+  left: 360px;
+}
+#Google-search {
+  position: relative;
+  top: 150px;
+  left: 630px;
+}
+#Feeling-lucky {
+  position: relative;
+  top:150px;
+  left: 660px;
+}
+.helpful {
+  position: relative;
+  top:170px;
+  left: 572px;
+}
